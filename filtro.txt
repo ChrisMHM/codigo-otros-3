@@ -1,3 +1,7 @@
+Nombre: Christian Hernández
+Evaluador: Daniel Malvaez
+Calificación: 9
+
 // Tenemos un li de productos
 
 const productos = [
